@@ -1,27 +1,7 @@
-# GamesGuides
+# Welcome to Games Guides (Name subject to change)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+I was getting tired of searching online for guides to specific games I play. I decided that I wanted to build my own website with all of the guides on one page we can access. This is a work in progress and a lot of the UI is subject to change.
 
-## Development server
+For now the user can choose which game they want to see the guides on and the page will render with the specific guides the user wants.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This allows the user to see all of the important guides all in one page and organized in a way where its easy for the user to search for what they want.
